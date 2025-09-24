@@ -1,10 +1,28 @@
+body {
+    background-color: #fbe3e8;
+}
+
 h1 {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+}
+
+h2,
+h3 {
+    color: #5cbdb9;
+    background-color: aliceblue;
+    width: 100%;
+    border-radius: 10px;
+    padding: 10px;
+
+;
 }
 
 p,
 ul,
 ol {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    width: 100%;
+    border-radius: 15px;
 }
